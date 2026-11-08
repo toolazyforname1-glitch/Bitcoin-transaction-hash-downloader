@@ -153,7 +153,7 @@ Flags worth knowing:
 | `--file-cap-bytes N` | Max size per parquet file (default 1 GiB); the overflow block rolls to the next file. |
 | `--verify-ntx` | Extra request per block to confirm the tx count. |
 | `--store txids\|roots\|headers` | What to keep per block: every txid (default), one Merkle root, or the 80-byte header. |
-| `--theme dark\|neon\|mono`, `--compact`, `--no-fullscreen`, `--verbose` | Dashboard appearance. |
+| `--minimal`, `--compact`, `--theme dark\|neon\|mono`, `--no-fullscreen`, `--verbose` | Dashboard appearance. `--minimal` is the questionnaire default. |
 
 Hotkeys while it runs: `Space` pause, `+`/`-` rate, `R` reset rate, `V` verbose,
 `F` force-finalise the current parquet, `P` restart workers, `L` auto-restart,
