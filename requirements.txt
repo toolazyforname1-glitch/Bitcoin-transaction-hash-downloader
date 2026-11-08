@@ -1,0 +1,4 @@
+requests>=2.31
+pyarrow>=14
+rich>=13
+psutil>=5.9

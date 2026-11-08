@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Collector output. data/ itself is tracked (via .gitkeep) but its contents never are.
+data/*
+!data/.gitkeep
+
+# Artifacts if an output folder is pointed somewhere else
+*.parquet
+*.wal
+collector.log
+stats.json
+checkpoint.json
+speed_profile.json
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+.venv-build/
