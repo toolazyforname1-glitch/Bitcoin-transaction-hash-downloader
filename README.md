@@ -212,10 +212,10 @@ the chain, and it carries proof-of-work, which roots alone do not.
 If this saved you a week of waiting, or a few hundred gigabytes or dealing with other issues and you'd like to support me:
 
 ```
-Bitcoin   bc1qxx64jxqyu07au6w6c4lv79s9p8nk9hlkjegclz
-Solana    BB1bFKdr3AAJ2X4STDXDLMCW16R9Y1BTa9CqMK5QWVi3
-EVM       0xfb1f8109c07ea777D6d0852afC6e0e21a2658802
-Tron      TEoqPtUpMvQkj8YgVCXaMkqK6b7a8ZnaSS
-Ton       UQAyO7eFPtNBFW_gElZSY6B_E-i5GwJqzmHQ2d5rARoqQmOX
+Bitcoin   bc1qv7f4v8djjw46wyhw0c8nfdufdy9mgnwcndvyyc
+Solana    7uCSuGumHHAKLw8KAwEthhwJgGvFprjZs8pQ4c7vvNud
+EVM       0x876Dbb0D860e813Ea57885B717fc860039Db7337
+Tron      TCU9ruV2qAbdfPkby28WXNGwv7WDDexXsV
+Ton       UQBmx9jzmKV6hhUF6mZ-2DIHKSBc8zwYtqAZZRL6UPAApFmx
 ```
 
